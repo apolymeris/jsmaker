@@ -1,6 +1,10 @@
 #!/usr/local/bin/python
 # -*- coding: utf-8 -*-
 
+#
+# basic configuration
+#
+
 CONFIG = { 
     "VARS" : {
         "version"    : "0.1",
